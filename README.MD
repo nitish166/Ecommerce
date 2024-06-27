@@ -13,8 +13,8 @@ This is an e-commerce website that displays various products, allows users to ad
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/ecommerce-website.git
-    cd ecommerce-website
+    git clone https://github.com/yourusername/Ecommerce.git
+    cd Ecommerce
     ```
 
 2. **Install dependencies**:
